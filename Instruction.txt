@@ -1,0 +1,4 @@
+Create your own function in R using the 4 basic arithmetic operations of real numbers (You can also use exponents). Run your function and use it twice. Be as creative as you can. You may submit a script file but provide a screenshot of it's output on the console or you may write your function directly on the console.
+
+
+10 points for working function and 5 points for each output. (You need to try it twice.)
